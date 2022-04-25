@@ -1,0 +1,2 @@
+# tugasKC
+Tugas Kecerdasan Buatan
